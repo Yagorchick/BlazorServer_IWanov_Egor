@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\BlazorServer_IWanov_Egor\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97DC30EB-EA8A-4BEF-8094-2F2302167E53}|BlazorApp1.csproj|c:\\users\\chris\\desktop\\projects\\github\\blazorserver_iwanov_egor\\src\\components\\pages\\masters.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97DC30EB-EA8A-4BEF-8094-2F2302167E53}|BlazorApp1.csproj|solutionrelative:components\\pages\\masters.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DC30EB-EA8A-4BEF-8094-2F2302167E53}|BlazorApp1.csproj|c:\\users\\chris\\desktop\\projects\\github\\blazorserver_iwanov_egor\\src\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97DC30EB-EA8A-4BEF-8094-2F2302167E53}|BlazorApp1.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DC30EB-EA8A-4BEF-8094-2F2302167E53}|BlazorApp1.csproj|c:\\users\\chris\\desktop\\projects\\github\\blazorserver_iwanov_egor\\src\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97DC30EB-EA8A-4BEF-8094-2F2302167E53}|BlazorApp1.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DC30EB-EA8A-4BEF-8094-2F2302167E53}|BlazorApp1.csproj|c:\\users\\chris\\desktop\\projects\\github\\blazorserver_iwanov_egor\\src\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97DC30EB-EA8A-4BEF-8094-2F2302167E53}|BlazorApp1.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DC30EB-EA8A-4BEF-8094-2F2302167E53}|BlazorApp1.csproj|c:\\users\\chris\\desktop\\projects\\github\\blazorserver_iwanov_egor\\src\\components\\pages\\adduser.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97DC30EB-EA8A-4BEF-8094-2F2302167E53}|BlazorApp1.csproj|solutionrelative:components\\pages\\adduser.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DC30EB-EA8A-4BEF-8094-2F2302167E53}|BlazorApp1.csproj|c:\\users\\chris\\desktop\\projects\\github\\blazorserver_iwanov_egor\\src\\components\\pages\\users.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97DC30EB-EA8A-4BEF-8094-2F2302167E53}|BlazorApp1.csproj|solutionrelative:components\\pages\\users.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DC30EB-EA8A-4BEF-8094-2F2302167E53}|BlazorApp1.csproj|c:\\users\\chris\\desktop\\projects\\github\\blazorserver_iwanov_egor\\src\\models\\yagorchickcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DC30EB-EA8A-4BEF-8094-2F2302167E53}|BlazorApp1.csproj|solutionrelative:models\\yagorchickcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DC30EB-EA8A-4BEF-8094-2F2302167E53}|BlazorApp1.csproj|c:\\users\\chris\\desktop\\projects\\github\\blazorserver_iwanov_egor\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DC30EB-EA8A-4BEF-8094-2F2302167E53}|BlazorApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DC30EB-EA8A-4BEF-8094-2F2302167E53}|BlazorApp1.csproj|c:\\users\\chris\\desktop\\projects\\github\\blazorserver_iwanov_egor\\src\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97DC30EB-EA8A-4BEF-8094-2F2302167E53}|BlazorApp1.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Masters.razor",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\BlazorServer_IWanov_Egor\\src\\Components\\Pages\\Masters.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Masters.razor",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\BlazorServer_IWanov_Egor\\src\\Components\\Pages\\Masters.razor",
+              "RelativeToolTip": "Components\\Pages\\Masters.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T11:27:51.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddUser.razor",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\BlazorServer_IWanov_Egor\\src\\Components\\Pages\\AddUser.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\AddUser.razor",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\BlazorServer_IWanov_Egor\\src\\Components\\Pages\\AddUser.razor",
+              "RelativeToolTip": "Components\\Pages\\AddUser.razor",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T11:24:34.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\BlazorServer_IWanov_Egor\\src\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\BlazorServer_IWanov_Egor\\src\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T11:23:46.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\BlazorServer_IWanov_Egor\\src\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\BlazorServer_IWanov_Egor\\src\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T11:21:50.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\BlazorServer_IWanov_Egor\\src\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\BlazorServer_IWanov_Egor\\src\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T11:17:44.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\BlazorServer_IWanov_Egor\\src\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\BlazorServer_IWanov_Egor\\src\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:16:13.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "YagorchickContext.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\BlazorServer_IWanov_Egor\\src\\Models\\YagorchickContext.cs",
+              "RelativeDocumentMoniker": "Models\\YagorchickContext.cs",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\BlazorServer_IWanov_Egor\\src\\Models\\YagorchickContext.cs",
+              "RelativeToolTip": "Models\\YagorchickContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:04:12.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\BlazorServer_IWanov_Egor\\src\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\BlazorServer_IWanov_Egor\\src\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T10:03:28.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.razor",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\BlazorServer_IWanov_Egor\\src\\Components\\Pages\\Users.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Users.razor",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\BlazorServer_IWanov_Egor\\src\\Components\\Pages\\Users.razor",
+              "RelativeToolTip": "Components\\Pages\\Users.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T10:01:00.804Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
